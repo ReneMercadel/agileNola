@@ -1,12 +1,22 @@
 ---
-title: 'About'
-description: "At the heart of New Orleans' vibrant tech scene, Agile Nola strives to empower local communities by making technology accessible and championing diversity. Through agile business practices and thought-provoking talks, we're building an inclusive, innovative future for everyone in the tech world.
-"
+title: "About"
+description:
+  "At the heart of New Orleans' vibrant tech scene, Agile Nola strives to
+  empower local communities by making technology accessible and championing
+  diversity. Through agile business practices and thought-provoking talks, we're
+  building an inclusive, innovative future for everyone in the tech world."
+featured_image: "/images/TheShop2.jpeg"
+
 menu:
   main:
     weight: 1
 ---
 
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/TheShop2.jpeg" title="Outside The Shop" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+culpa qui officia deserunt mollit anim id est laborum.
